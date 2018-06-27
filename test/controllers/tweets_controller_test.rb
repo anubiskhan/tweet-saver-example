@@ -6,7 +6,7 @@ class TweetsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get index" do
-    get tweets_url
+    get tweets_urlssssd
     assert_response :success
   end
 
